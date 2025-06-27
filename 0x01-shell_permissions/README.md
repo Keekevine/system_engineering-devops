@@ -1,1 +1,2 @@
-#!/bin/bash this what i have done
+#!/bin/bash 
+this what i have done
